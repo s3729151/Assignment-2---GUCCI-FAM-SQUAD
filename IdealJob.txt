@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<div class="topnav">
+  <a href="Backgroundinfo.html">Background Information</a>
+  <a href="MyIntrests.html">My Intrests</a>
+  <a class="active" href="IdealJob.html">My Ideal Job</a>
+  <a href="Profile.html">Profile</a>
+  <a href="ProjectIdea.html">My Project Idea</a>
+</div>
+
+<div style="padding-left:16px">
+  <marquee behavior="scroll" direction="left">
+         <h1>
+         My Profile</h>
+      </marquee>
+<h2>Ideal Job</h2>
+      </center>
+      <p>My ideal job would be developing an online social media consultancy company however that is something that I would do in the future, it would begin as a side project once I graduate or possibly while I’m doing my degree and possibly one day become my full time job. However otherwise working as UX web developer. </p>
+      <center>  <a href='https://photos.google.com/share/AF1QipNeobxxIygV3jWRsHNwCYdMFklbDaP127APMLY0ruqT44OEimNFj_lq9vjSiJVHvA?key=TWQxOEFHcWZvNkpfY2RpSERiR1NmbF8tc0MtWjZB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/ibuHW2MSp-DTQe03yrL57Gx6xpkoo3J4p-Jj4zunignQ__RPlmw6oyEFbkarspDo3lCb5CnbdHMTjq5g5VWSfs0jxrztNVnEn_MHPlUMIAeoMiKRtsXG8zPmvj48gbT_Sseqc4x54g=w2400' width="500" height="377"/></a> >   </center>
+      <p> https://au.indeed.com/Web-Developer-jobs-in-Melbourne-VIC?vjk=b14e635d313b238e</p>
+      <p>A description (in your own words) of the position, and particularly what makes this position appealing to you. </p>
+      <ul>
+         <li>The position of a UX web developer consists of someone with creative ability and technical ability to design applications that are both appealing and functional for the client, while under a set time frame to ensure that the application is created in timely manner for the client. What makes this position appealing to me is the creative license to build appealing websites while still being allowed to code at the same time. It is bringing my two favourite worlds together, design and coding. </li>
+      </ul>
+      <p>A description (in your own words) of the skills, qualifications and experience require for the position. </p>
+      <ul>
+         <li>The skills, qualifications and experience required for this position is firstly some type of knowledge and skill in coding whether it be Java Script or HTML5. Other than having experience and understand computers, other skills required are: effective communication skills, both verbal and written and high-quality presentation skills. I would imagine that experience in customer service roles as well as previous IT roles would be more considered compared to someone who doesn’t. </li>
+      </ul>
+      <p> A description (in your own words) of the skills, qualifications and experience you currently have. </p>
+      <ul>
+         <li> Digital Leader: I was the Leader of the Digital Aspects of my school, this includes the Audio Visual setup of assemblies and school functions. As well as assisting with technical problems in the class rooms. I filmed majority of the events that are student run at the school. </li>
+         <li> Ivanhoe Grammar School Army Cadets: I was a member of the army cadet unit at Ivanhoe Grammar (Rank-Warrant Officer Class 2, Acting Head of Sligo Company and 2IC of Training and Assessment Platoon). Army Cadets taught me discipline, leadership, teamwork and how to communicate effectively. </li>
+         <li> Admin Duties: In between High school and University I filled in as a casual receptionist, which helped me obtain many skills and what is needed to work in an admin role. </li>
+         <li> Mental Blank: One day seminar on time management and study techniques - Date: 28th September, 2014 </li>
+         <li> Obtained VCE Certificate </li>
+      </ul>
+      <p>A plan describing how you will obtain the skills, qualifications and experience required for the position. </p>
+      <center> <a href='https://photos.google.com/share/AF1QipN12ep8VAZ6gJHxKpvUQlr2J_Qqx2ZGISbN2MYPOURinsNIX8LiFUoppuce73nCSQ?key=SFdPand0dDNIMUE3T0IwRzVISEk4ZGZ3V1VyX2F3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/WSFQ8UreZbs6Uoyk_aBGOPBe13U3KknBqD4RTAlU_x_S_cI5eyoL6dXdXYsV9a3miYWxw_e2s0qAtcZhzyJrwEeKdbeDaWgHtJm0ZUX_IuK2A2dwjAAcfPAjiQ484Yzj67gXmDV80g=w2400' width="250" height="300"/></a> </center>
+      <center>
+</div>
+
+</body>
+</html>

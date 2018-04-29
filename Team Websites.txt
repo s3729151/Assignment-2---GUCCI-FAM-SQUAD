@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:#E7C0B7;">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #B7BCE7;
+}
+
+.topnav a {
+  float: left;
+  color: #D6E7B7;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #EE7777;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #777CEE;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<div class="topnav">
+  <a  href="TeamProfile.html">Team Profile</a>
+  <a class="active" href="Team Websites.html">The Teams Websites</a>
+  <a href="Personal Information.html">Personal Information</a>
+  <a href="Individual Profiles.html">Individual Profiles</a>
+  <a href="Ideal Jobs.html">Ideal Jobs</a>
+</div>
+
+<div style="padding-left:16px">
+  <marquee behavior="scroll" direction="left">
+         <h1 class="flash">TEAM PROFILE</h1>
+      </marquee>
+      <center>
+         <h2>Team Websites</h2>
+    
+
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+</style>
+</head>
+<body>
+
+<p>In this example, we remove the bullets from the list, and its default padding and margin.</p>
+
+<ul>
+  <li><a href="Backgroundinfo.html">Katrina's Website</a></li>
+  <li><a href="Intro to Information tech.html">Katrin's Website </a></li>
+  <li><a href="MyProfile.html">Darly's Website</a></li>
+  <li><a href="Website.html">Kristins's Website</a></li>
+  <li><a href="index.html">Sabarish's Website</a></li>
+</ul>
+
+</body>
+</html>

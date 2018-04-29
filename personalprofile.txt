@@ -1,0 +1,114 @@
+
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Personal Profile</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body class="landing">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">Sabarish Venkatesan</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="SabarishWebsite.html">Personal Information</a></li>
+											<li><a href="interestinit.html">Interest in IT</a></li>
+											<li><a href="idealjob.html">Ideal Job</a></li>
+											<li><a href="personalprofile.html">Personal Profile</a></li>
+											<li><a href="projectideas.html">Project Ideas</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<div class="image"><img src="images/teambuilding.jpg" alt="" /></div>
+						<!–– Image source: https://sp.depositphotos.com/67408117/stock-photo-collaboration-mind-map.html–>
+						</div>
+						<a href="#one" class="more scrolly">Explore</a>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style1 special">
+						<div class="inner">
+							<header class="major">
+								<h2>Team Building and Personality development <br>
+								Test Results Analysis</h2>
+								<p>These results are very significant to me because they resemble my character and help other people to understand my personality. I do not beleive these results are 100% accurate of my character but it gives a good knowledge about myself to the unknown people.</p>
+
+							    <p>These results have a good influence on me while forming a team.and help me to act as a good team member. This results builds my self-conifidence during the interactions with team members. They not only help me but also the people around me to pick a right person for the perfect team.</p>
+							
+                                <p>Since this is almost a clear picture of my personality I should consider these important points while forming a team. I need to develop certain skills which is neccessary for forming and maintaining a quality team.</p>
+							</header>
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+						<section class="spotlight">
+							<div class="image"><img src="images/personality test.jpg" alt="" /></div><div class="content">
+					<!–– Image source: : https://www.16personalities.com/profiles/3ebe43f984880 (snapshot of results)–>
+								<h2>Personality test</h2>
+								<p>On the analysis of this test result I am a extravert and observent which is a good quality to for forming a good team. But I need to improve my thinking and prospecting skills which is required to form a excellent group.</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/learning skills.jpg" alt="" /></div><div class="content">
+					<!–– Image source:  http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml(snapshot of results)–>
+								<h2>Learning style test</h2>
+								<p>This test results shows that I am an auditory learner which is absolutely matches my style. This style of learning helps me to grab things faster while the teacher is taking classes this saves a lot of time at home while preparing for exam. I also need to develop some tactical style of learning which helps me in problem solving and while programming.</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/test.jpg" alt="" /></div><div class="content">               					
+								<!–– Image source: http://www.humanmetrics.com/cgi-win/jtypes2.asp (snapshot of results)–>
+								<h2>humanmetrics test</h2>
+								<p>According to the results I should develop my thinking and sensing skills which is required for decision making which is very important when we move in a team for doing projects. Sensing skills are important for problem solving and techniques while coding. </p>
+							</div>
+						</section>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li>Follow me on <a href="https://www.facebook.com/venkatesansabari" class="icon fa-facebook"><span class="label">Facebook</span></a></li><br>
+							<li>Email : s3696187@student.rmit.edu.au</li><br>
+						    <li>Phone : 0433178300 </li>
+						</ul>
+						
+					</footer>
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

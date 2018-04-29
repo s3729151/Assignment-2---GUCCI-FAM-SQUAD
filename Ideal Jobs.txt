@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:#E7C0B7;">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #B7BCE7;
+}
+
+.topnav a {
+  float: left;
+  color: #D6E7B7;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #EE7777;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #777CEE;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<div class="topnav">
+  <a  href="index.html">Team Profile</a>
+  <a  href="Team Websites.html">The Teams Websites</a>
+  <a  href="Personal Information.html">Personal Information</a>
+  <a  href="Individual Profiles.html">Individual Profiles</a>
+  <a class="active" href="Ideal Jobs.html">Ideal Jobs</a>
+</div>
+
+<div style="padding-left:16px">
+  <marquee behavior="scroll" direction="left">
+         <h1 class="flash">TEAM PROFILE</h1>
+      </marquee>
+     
+    
+      <p>
+<h2> Katrina's Ideal Job</h2>       
+ <li>Ideal Jobs:
+My ideal job would be developing an online social media consultancy company however that is something that I would do in the future, it would begin as a side project once I graduate or possibly while I’m doing my degree and possibly one day become my full time job. However otherwise working as UX web developer. 
+-	The job advertisement itself. Include a link, and a snapshot of it (in case the link expires before too much longer).
+ 
+https://au.indeed.com/Web-Developer-jobs-in-Melbourne-VIC?vjk=b14e635d313b238e
+-	A description (in your own words) of the position, and particularly what makes this position appealing to you.
+The position of a UX web developer consists of someone with creative ability and technical ability to design applications that are both appealing and functional for the client, while under a set time frame to ensure that the application is created in timely manner for the client. What makes this position appealing to me is the creative license to build appealing websites while still being allowed to code at the same time. It is bringing my two favourite worlds together, design and coding. 
+-	A description (in your own words) of the skills, qualifications and experience require for the position.
+The skills, qualifications and experience required for this position is firstly some type of knowledge and skill in coding whether it be Java Script or HTML5. Other than having experience and understand computers, other skills required are: effective communication skills, both verbal and written and high-quality presentation skills. I would imagine that experience in customer service roles as well as previous IT roles would be more considered compared to someone who doesn’t. 
+         </li>
+<h2> Kathrin's Ideal Job</h2>
+<li> Description
+Amazon is looking for an infrastructure consultant who is well-versed in SAP. The position is for creating solutions for the company using SAP, in the best and most efficient way to cater to best practices employed by the organization. It will also cover automation of some processes as well as the creation of new tools to simplify operations.
+Skills, qualifications, and experience required:
+The position requires a deep understanding of SAP Systems, such as Business Objects, Mobility, and Business Suite, as well as administration of Basis and Netweaver. It also requires that the applicant has a bachelor level degree in computer science or math background, with a stated preference for a master's degree. Aside from the above, the listing puts a strong emphasis on a wide experience in SAP, as well as the need for communication skills and willingness to travel.
+(skills required: SAP, communication)
+
+Job title (SAP Infra Consultant) not in Top Job Titles list
+IT Skills = 6th in the list (SAP)
+Generic Skills = 1st in the list (Communication Skills)
+</li>
+<h2>Kristian's Ideal Job </h2> 
+<li>  My ideal job would be to make my ideas come to life, so in the future i would like to create apps and games on mobile devices to see whether my ideas can make my life or other peoples lives easier. I find that I'm a creative person and like to create things so I think taking up a job in the developing field would really interest me. To me, being a web and mobile app developer means to imagine what an app or website would look like and what it would do, then to create it, test it and maintain it. 
+
+As it is outlined in the advertisement, to be accepted into this position you would need to work up to and it has to be something you really want to already have the qualifications for it. Some of these qualifications include a minimum of 5 years experience in the web and mobile development field, knowledge on a number of programming languages, experience in my SQL and AWS and a great understanding of database administration. There are also personal characteristics required for this role such as having exceptional written and verbal 
+communication skills, time management skills and discipline, to work exceptional in a team, to be self motivated and to be creative and suggest ideas.
+
+As of right now, I can't say that I have many qualifications but I am a university student learning to program with JavaScript and have a bit of knowledge on it from also doing some work on it in year 11 and 12. I am also familiar with creating HTML websites and I've also created a mobile game in high school. As for my personal characteristics, I would say that I have the written and verbal communication skills to keep up with everything and also work well in a group. I would only have to work a bit more on my time management as right now I
+always leave everything to the last minute.
+
+To obtain the qualifications of this role, I would stay in my current Information Technology course as I feel that most qualifications required for this role would be somewhat taught in this course, and I could always choose different subjects within this course to assure that I am learning about this role. After university I would find a company or organisation to work at with my skills gathered from my course and gain the experience I need to then get to the final stage and work for this desired company on the advertisement.
+</li>  
+
+<h2> Sabarish's Ideal Job </h2> 
+<li> This is a web application developer job. This job appeals to me beacuse I love developing web pages and coding. Coding makes me to think a lot and I love to solve problems which is important aspect of this job. The developers spend their time writing new code and improving the existing code. Developers work closely with the testers to identify bugs and fix the problems. This job suits me because it requires a strong command in communication skills. According to the personality test results I am extravert so I think I have issues in working with the different people such as UX designers, backend developers, testers and graphic designers. According to my interest and character this job perfectly fits me.
+
+Skills Required for the job
+Technical knowledge is very essential for getting a perfect job. Some of the main technical requirements for this job are Java, JavaScript, CSS, typescript, node, REST and other programming languages. There is no work experience is required. Some personal interest such as data science, product management, machine learning etc.
+
+Skills possessed
+I have some important soft skills which is also a deciding factor during the selection for the job such as good communication skills and ability to work in a team. I am always mentally alert and eager to learn new things. I am always flexible to work at any time and any situation with energy and time efficient. As programmer being innovative and logical reasoning skills are very important. On the technical side I am proficient in C, C++ and some basic knowledge in Java.
+
+ </li>  
+
+<h2> Daryl's Ideal Job</h2> 
+<li> A manager for Information Systems & Technology (IST) requires an individual that can manage projects, teams and policies all the while leading the design, developing and implementing ICT architectures in order to stay consistent with the IST strategy – either designed by you or given to you. Essentially, the IST manager has influence on everything done in the technical field – which is reported on the higher ups of the company.
+
+The main reason why this position appeals to me is because of its management, business and team aspects. Not only will this give me experience, skills and knowledge on running my own business, this will also provide an opportunity to create bonds with higher ups or professionals that can help me at my own business. It allows me to expand my connections with professionals and such.
+
+To get into this job, the individual needs to show and demonstrate the ability to communicate and work well in a team environment – this is done by either participating/leading a project or volunteer work/experience with working in non-profit organizations. IT infrastructure planning and development, policies and standards in an enterprise is also a required experience for this job. The ability to oversee, organize, plan and implement ideas in order to avoid problems or fix them as fast as possible. Back again with communication, it’s very important to be able to lead and motivate; co-workers, staff and contractors. High problem-solving skills are also needed since unexpected things can happen in the workplace, especially in this scale of work.
+
+Currently, I majorly lack the requirements for this job. I have no experience in the IT industry let alone anything heavily IT related in the workplace – but that’s why I’m here! The only skills I have that could be fulfilled in the requirements is my communication skills – however I still have much to learn when it comes to negotiating or communicating with higher ups in a professional manner.
+
+In order to obtain the skills, qualifications and experience for this position, I need to finish my bachelors. During my education though, I need to look for volunteer work – locally or out in the city held by an organization. Anything that contributes to increasing my leadership, teamworking skills & problem-solving skills.
+
+Since I need experience in management (specifically IST management), I’ll be looking for jobs in the field for smaller companies in order to get the experience required. I’ll also look into starting projects for the experience not only for this job, but for my future business. Since it helps with my management skills and demonstrates my ability to control/lead a group of individuals. Working as a lecturer can also help me with the requirements since it shows that I’m able to present information/data to various people – which in turn increases my communication skills in small/large groups. This allows me to demonstrate that I have experience in dealing with a broad range of individuals and groups.</li>    
+            </p>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+
+<body style="background-color:#E7C0B7;">
+
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            body {
+                margin: 0;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            
+            .topnav {
+                overflow: hidden;
+                background-color: #B7BCE7;
+            }
+            
+            .topnav a {
+                float: left;
+                color: #D6E7B7;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+                font-size: 17px;
+            }
+            
+            .topnav a:hover {
+                background-color: #EE7777;
+                color: black;
+            }
+            
+            .topnav a.active {
+                background-color: #777CEE;
+                color: white;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <div class="topnav">
+            <a href="index.html">Team Profile</a>
+            <a href="Team Websites.html">The Teams Websites</a>
+            <a href="Personal Information.html">Personal Information</a>
+            <a class="active" href="Individual Profiles.html">Individual Profiles</a>
+            <a href="Ideal Jobs.html">Ideal Jobs</a>
+        </div>
+
+        <div style="padding-left:16px">
+            <marquee behavior="scroll" direction="left">
+                <h1 class="flash">TEAM PROFILE</h1>
+            </marquee>
+            <center>
+                <h2>Katrina's Profile</h2>
+            </center>
+            <center>
+                <a href='https://photos.google.com/share/AF1QipOCB56UeitbYxLuMjzWB3Ml6EdAv2tmWD79pt_nV6aM7szSZjdMwezk5pWnQK9QYA?key=MFF1MG51T0J5OFlKcU9tSGd3TzVQWVA5QjFKZFdn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/PdLh2chvk9BdUNZrEarP-XznTfKa4Kdb8v690kmeCLFf2o85xhJpcuVM7QasUTwg9TLvhbvwVOr5hZvxSV5wTTXRGFegurubRYiaudGlNcjziNPJJw4RUOikk_hxw83eHYxOrUBbyA=w2400' width="500" height="377" /></a>
+            </center>
+            <center>
+                <p> https://www.16personalities.com/istj-personality </p>
+            </center>
+            <center>
+                <a href='https://photos.google.com/share/AF1QipOiAXclYn5FcOPpG16oS4nYFtV70F8bgzr59JGZA3nWiSmOvKP6i545moa63Nb5rg?key=M2ZwaXQ0SWJzTUNsN2wwLS1DMTJpWHdZWUNNaWFn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/OONN3vdNxIYIQepnseAEcJcC4noJE1UfSqydDaCTdIJutDgCoF5SASDZyRfK6zrJLFnblij-XQHypJfGsbe0SHtaVoK4XBgMEBPreYL31yo7NmVY28Dq7gkqdGEhDtLHQ-kIUTpNnQ=w2400' width="500" height="377" /></a>
+            </center>
+            <center>
+                <p> http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=9&V=5&T=6 </p>
+            </center>
+            <center>
+                <a href='https://photos.google.com/share/AF1QipPkqgaQgfrLBETQflV-a8-LD3cP6RO4kgTH6uM7PXvePIDeN8qD4y99G_KywCF2QQ?key=ZWQ2ZjFiWGJwalpwZWRYU0xVNUstQXN0ZFk4WkZB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/CzdPoRqInPs8VaQ6h8g2bVDxEZL1q0Q6Csu-crNhwTveUOOtpN3OzxYV8AkK7O-z2LeqqtdY7-RbHcEVX2IC6zYpHNm0GgjtWeD4GrjYjLNehyHPwBeMsrFJI2B8kdVzj9txs816iw=w2400' width="500" height="377" /></a>
+            </center>
+            <center>
+                <p> http://thecreativityquiz.com/#12 </p>
+            </center>
+            <p> What do the results of these tests mean for you? </p>
+            <ul>
+                <li> The results of these tests showed me my character traits that I was unaware of. I was convinced I was a visual learner, however these results show that I work better learning through audio methods. The results of these tests show what my character strengths and weaknesses are, now that I have these results I can use them to my advantage to help me in group situations, knowing where I fit in the dynamic of a group will be helpful when decisions are being made. </li>
+            </ul>
+            <p>How do you think these results may influence your behaviour in a team? </p>
+            <ul>
+                <li>These results have shown me that I am someone who is not able to control there emotions in stressful situations, but I don’t speak up about it due to my introverted mind. Therefore I need to improve my communication skills to ensure that all feeling in regards to the project are put out into the open, therefore the best outcome can be achieved. </li>
+            </ul>
+            <p> How should you take this into account when forming a team? </p>
+            <ul>
+                <li> When forming a team it is best to have people of all character traits to ensure there are no gaps and there is a level, rounded team. Having someone the exact opposite to my character strengths will cause my voice and opinions to be drowned out. It is essential that everyone in the team is somewhat similar with slight variations bringing different aspects to the team while not being to be overpowering to other members. </li>
+            </ul>
+            <center>
+                <h2>Kathrin's Profile </h2> </center>
+
+            <h3><i>Myers-Briggs Test Result</i> (Test from 16Personalities dot com)</h3>
+            </header>
+            <ul>
+                <li><b>Logician / INTP-T</b> (Introverted, Intuitive, Thinking, Prospecting; Turbulent) - The Logician personality type is fairly rare, making up only three percent of the population, which is definitely a good thing for them, as there's nothing they'd be more unhappy about than being "common". Logicians pride themselves on their inventiveness and creativity, their unique perspective and vigorous intellect. Usually known as the philosopher, the architect, or the dreamy professor, Logicians have been responsible for many scientific discoveries throughout history.</li>
+            </ul>
+            <header class="sectionHeading">
+                <h3><i>Learning Style Test Result</i> (Test from Education Planner dot org)</h3>
+            </header>
+            <ul>
+                <li><b>Tactile</b> - If you are a tactile learner, you learn by touching and doing. You understand and remember things through physical movement. You are a "hands-on" learner who prefers to touch, move, build, or draw what you learn, and you tend to learn better when some type of physical activity is involved. You need to be active and take frequent breaks, you often speak with your hands and with gestures, and you may have difficulty sitting still. As a tactile learner, you like to take things apart and put things together, and you tend to find reasons to tinker or move around when you become bored. You may be very well coordinated and have good athletic ability. You can easily remember things that were done but may have difficulty remembering what you saw or heard in the process. You often communicate by touching, and you appreciate physically expressed forms of encouragement, such as a pat on the back.</li>
+            </ul>
+            <header class="sectionHeading">
+                <h3><i>Big Five Personality Test</i> (Test from Open Psychometrics dot Org)</h3>
+            </header>
+            <ul>
+                <li><font color="red">Low</font> Extroversion</li>
+                <li><font color="red">Low</font> Emotional Stability</li>
+                <li><font color="green">High</font> Agreeableness</li>
+                <li><font color="red">Low</font> Conscientiousness</li>
+                <li><font color="green">High</font> Intellect / Imagination</li>
+            </ul>
+            <center>
+                <h2> Kristian's Profile </h2> </center>
+            <center>
+                <p> Results of my Myers-Briggs test: </p>
+            </center>
+            <center>
+                <a href='https://photos.google.com/share/AF1QipPE3grtyT_BtC5R8KGH5TF-9ITWVkXljIpxvN_PZffi3IskFesIYgfB-N44zlk6uA?key=R2dkX2FJX3c1dE9nT21tWW1PV1hGMmZfMnpFYzlR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/HmbfyA7XxNftlQcCy9YJ7c61TD84iQYk_nj6GUTM8zZQLFZRFvJnGxWpD3UK485hdOp3owqhG6dUbgM4XvJXWDmFxGj-mk7ZGujEt7O0txKTDDmagx45fjmRlZMmgoMIlmQr0DuXXw=w2400' width="500" height="377" /></a>
+            </center>
+            <center>
+                <p> My result from the learning style test: </p>
+            </center>
+            <center>
+                <a href='https://photos.google.com/share/AF1QipPOrSTouwSRdxSCceO6hZ4gHLPjsX7BsCjiobYUZfg2TA_EUULPbsq8BY0eU7u2Dg?key=bFp3akk4cHRYQTBLUGtHZjZOdjJobGRHVEFjRk53&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/NJXzgod4DGXqb0goEYR4Zz78CoQTkB5ANcHQ_6Cg54Iz6NShSdVXjtXR3YC3oovpmULC0cVYWpvu_tJFlq_bMeoUGnOgiD3cbwaqJWkUlKSKSd9bcSxTy_OeYwfKMMlHFJMPUn1UJA=w2400' width="500" height="300"/></a>
+            </center>
+            <center>
+                <p> My creativity test result: </p>
+            </center>
+            <center>
+                <a href='https://photos.google.com/share/AF1QipMXJENMkNTKbmDJE-NV_uCWUlZxlel8CB66nHb80eYDApwDYKSz12znkoI-HHNu2g?key=c0luUXRnRk1JZld3aXM3eWZqZ3BvSHBGdXlZUGRB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/PsiLKfoCnLsAP4s_dsIgzKajRCtd4V6rkgUrzyvw3Uo0_GW-KKIQe627cDwH_kWVhfDsRarPE9KnzldlXaT4TmNckH5JC9_N0eh95YPbP9wlkmFn7HIKRMQpx4U39s886CIkVf-tuw=w2400'width="500" height="300" /></a>
+            </center>
+
+            <center>
+                <h2> Sabarish's Profile </h2> </center>
+            <h3>Team Building and Personality development 
+Test Results Analysis </h3>
+            <p>These results are very significant to me because they resemble my character and help other people to understand my personality. I do not beleive these results are 100% accurate of my character but it gives a good knowledge about myself to the unknown people. These results have a good influence on me while forming a team.and help me to act as a good team member. This results builds my self-conifidence during the interactions with team members. They not only help me but also the people around me to pick a right person for the perfect team. Since this is almost a clear picture of my personality I should consider these important points while forming a team. I need to develop certain skills which is neccessary for forming and maintaining a quality team.
+
+            </p>
+            <h3> Personality test</h3>
+            <p> On the analysis of this test result I am a extravert and observent which is a good quality to for forming a good team. But I need to improve my thinking and prospecting skills which is required to form a excellent group.
+
+            </p>
+
+            <h3> Learning stlye test </h3>
+            <p> This test results shows that I am an auditory learner which is absolutely matches my style. This style of learning helps me to grab things faster while the teacher is taking classes this saves a lot of time at home while preparing for exam. I also need to develop some tactical style of learning which helps me in problem solving and while programming. </p>
+
+            <h3> Humanmetrics test </h3>
+            <p>According to the results I should develop my thinking and sensing skills which is required for decision making which is very important when we move in a team for doing projects. Sensing skills are important for problem solving and techniques while coding. </p>
+
+            <center>
+                <h2> Daryl's Profile </h2> </center>
+            <p>
+                <center> Myers-Briggs Test</center>
+            </p>
+            <center><a href='https://photos.google.com/share/AF1QipNYlMy1kA5ZBe6DTpuvUbWnrhLdWyIPUS6AhCKxiepQglzZL71L5ItQEPCMh7WKGA?key=VzZQcUNZc0dOZWZvbHQ4bEZ2Q05kRG5jbWlkX01R&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/OGwxWqtd6XJrgU7ehc3jPZDMoCquw3uMVbmIU14duWF5yROW7F-U9itUiFc-Sb4uHADLDOIMx5NWg-ZVXgARwNt0htjCKdkEcUCdN53p87R58rL9StD3nH1r_N6No2hbd-HSLq3_eA=w2400' width="250" height="300"/></a>  </center> 
+<p> The test resulted in me being a campaigner – which in my opinion is extremely accurate, for the most part. It doesn’t really mean much to me since I haven’t really learned anything new – 
+		I’m quite impressed at how accurate it is though.
+		Since I’ve read the specifications on how I act in a working environment, I feel as if it influences me to work more in a communicative and understanding manner. It also shows me that 
+		I’m more than likely to think things ahead of time, but at the same time be able to think of a quick plan to fix an unexpected problem.
+		When forming a team, I’d love to have a team full of people that are willing to communicate. I’d like to be the leader/guider of the group just so I could encourage them to explore and list ideas. 
+		</p>
+<p><center> Learning Style Test <a href='https://photos.google.com/share/AF1QipPRfO4rmi145nzPWGQkB6UCC-Ra6XhrBOR-6sj78Y20HvO-KUB1SJA66SmYl896SQ?key=cFB0WDRNT3kza2o3Q2dYZjBMWWZpalBpUGJrLURR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/OSL5m96Cx9-zHy0YmUYewIjm-n7GonVZYbZyyllCMP1OXcHJSlNGNfVBmP9QynmIPBUY7IovJ5uYBJ9dfovZ7_MR7TwSLp0bNtJLIfuU393eKYw9t7ktOwTN-vuXaF9nt9B7WBv1Pg=w2400' width="500" height="300"/></a></center></p>
+<center> </center>
+            <p> The test resulted on me being an Auditory/Visual learner. Thanks to these results, I can have more options on how to learn or work at a much more efficient and effective way. They made me realize what would work for me in a team working situation, or how I should work. So, I’ll be trying some of these options that the results have provided – such as getting my teammates to speak to me when talking about ideas instead of reading it through a screen etc. I have to try and get my team to communicate with me vocally – as much as possible, which means that we have to have meetings and such. I’ll also need to draw or have an overview of our plan so it’ll be easier for me and other visual learners in the team.
+            </p>
+
+            <p>
+                <center> Creativity Test</center>
+            </p>
+            <center> <a href='https://photos.google.com/share/AF1QipOmG1VpBGWtC3axW8ivULKFDVaX-zGynbq0MK0P4Oj1L00Ga3rvCfAcQmxQGMV45w?key=aXdsNFROSDhDV3dQdWpSNW0wRlNaRWlxU2twOFp3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/x1h08Mf8eOwERREPwipisAL4l9RLCII5iPDq3CTMxoR4bQTpZgZtANxeJZOFKvyyqJis9aCSheuoDBT7bD40bPTPIxjlqV5jcwywbpZjhJaPaK3bJQJ7kqKVS-OIfzKPg4DlXggqyQ=w2400' width="250" height="300" /></a>   </center> 
+<p> The test resulted in me having a score of 77.72 which is 14~ more points than average. This means that I’m a bit more creative than most – which is good in terms of 
+		creating new ideas and forming solutions to problems.
+		I’ll definitely be thinking out of the box in a team environment. I’ll be the person that suggests new ideas and build on already existing ideas within the team.
+		When forming a team, I would be most comfortable working with people who are open minded to new or unconventional ideas and assist me in sharpening it,
+			</p>
+
+        </div>
+
+    </body>
+
+</html>
