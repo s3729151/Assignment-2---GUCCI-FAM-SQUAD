@@ -1,0 +1,109 @@
+
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Project Ideas</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="index.html">Sabarish Venkatesan</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="SabarishWebsite.html">Personal Information</a></li>
+											<li><a href="interestinit.html">Interest in IT</a></li>
+											<li><a href="idealjob.html">Ideal Job</a></li>
+											<li><a href="personalprofile.html">Personal Profile</a></li>
+											<li><a href="projectideas.html">Project Ideas</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<article id="main">
+						<header>
+							<h2>Project Ideas</h2>
+							
+						</header>
+						<section class="wrapper style5">
+							<div class="inner">
+
+								<h3>Overview</h3>
+								<p>In future I would like to introduce a sans-checkout grocery store. This is a futuristic grab and go technology. This project will be exclusively designed for the people who hate standing in checkout line after their shopping. Customers should download the QFree app and scan their phones while entering the store. This advanced technology will track their purchase and allow them to exit the store without a manual checkout after their shopping and they are automatically charged from their account. This app makes the shopping easy and enjoyable.</p>
+
+                               
+                                <hr />
+
+                                <h3>Motivation</h3>
+                                <div class="image"><img src="images/statistics.png" alt="" /></div>
+
+								<p>This app acts as a great tool for saving time for the people and stop wasting their time and energy standing in queues. This app would be inspiring a lot of people and experience the new world of technology.Barclays found 68% of people, in a survey of 2,000, had abandoned a queue at one time or another. The survey revealed that long queues had also put off most people entering shops or stores, with 29% of those surveyed saying this happens to them at least once a week.</p>
+
+								<hr />
+
+								<h4>description</h4>
+								<p>This is a totally automated shopping experience from selecting products to payment. Qfree is a new vision of grocery store and customer experience revolutionary. For consumers to shop in these stores customers must have a smartphone. In the phone download the Qfree app from the app store and then create an Qfree account. It is the customers interest to sync their card details with the account or pay for their goods through Qfree wallet. Exclusive offers would be provided for customers paying through pay. This next generation technology makes the shopping interesting and innovative. 
+								To accomplish this paradigmatic shift in the operational model of retail shopping, Qfree heavily relies on technological innovation. Qfree technology uses automatically sense when an item is picked up or put back on the shelf and recognizes that who committed this action. The product can be taken and placed any number of times until they are satisfied and once if the customers are satisfied with the items they have chosen, they can simply walk out of the door and no waiting in queue for checkouts. The amount for the purchased items would be debited from the Qfree wallet or from the cards according to your wish. For this to be done all you need to do is to have a smartphone with the app in your hand.
+								In these stores you could also find ‘Easy Return Policy’ where you could return the item you have shopped even after the billed and the transaction process is completed. If you need exchange or refund they are possible in Qfree stores. In case you need exchange contact our retailers in the store where they will check whether the product belong to this store and the products unused. In case of refund the amount would be added to Qfree wallet.  
+
+</p>       
+
+                                <hr />
+
+                                <h4>Tools and Technologies</h4> 
+								<p>Qfree uses an innovative and inspiring technology called as “Grab and Go Technology”. This technology is used for tracking of the items taken and returned to the store shelves. It also keeps track of the individual’s virtual cart. This technology is like the technology of self-driving cars. RFID cage is a hardware which consist of RFID sensor in which we can to scan the products accurately. ‘Edgemagic’ and ‘Edgefinity lot’ are the software which we can use to develop for grab and go technology. This technology or system highly depends on sensor fusion, computer vision and deep learning algorithms. Some operational strategy are making central cameras where they are used to check the products and their replacements and also the people who are shopping. </p>
+
+								<hr />
+
+								<h4>Outcome</h4>
+                                <p>In this fast-moving world time is the most valuable thing than gem, gold or anything. Time is one of the non-renewable resource. If this project comes out in success then the people will step into the new world of technology. This project makes has a great impact in saving people’s time from waiting in queue. This project could also be implemented in different fields and change the entire world with Qfree technology.</p>
+							
+							</div>
+						</section>
+					</article>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li>Follow me on <a href="https://www.facebook.com/venkatesansabari" class="icon fa-facebook"><span class="label">Facebook</span></a></li><br>
+							<li>Email : s3696187@student.rmit.edu.au</li><br>
+						    <li>Phone : 0433178300 </li>
+						</ul>
+						
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:#E7C0B7;">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #B7BCE7;
+}
+
+.topnav a {
+  float: left;
+  color: #D6E7B7;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #EE7777;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #777CEE;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<div class="topnav">
+  <a  href="index.html">Team Profile</a>
+  <a  href="Team Websites.html">The Teams Websites</a>
+  <a class="active" href="Personal Information.html">Personal Information</a>
+  <a href="Individual Profiles.html">Individual Profiles</a>
+  <a href="Ideal Jobs.html">Ideal Jobs</a>
+</div>
+
+<div style="padding-left:16px">
+  <marquee behavior="scroll" direction="left">
+         <h1 class="flash">TEAM PROFILE</h1>
+      </marquee>
+       <h2>Darly Borcena</h2>
+         <ul> 
+<li>Student Number: s3729151 </li>
+<li>Background: I’m 19 years old and I’m currently studying full-time in RMIT University. I’m Filipino, born in the Philippines and shortly left for Australia after 9 years – so most of my childhood was spent in the Philippines. </li>
+<li>Hobbies:  I love music - from simply listening to it, to making it myself with Ableton Live (a music program). I play a few instruments; however, I mainly play the guitar. I do a lot of things in my pastime. I play video games; instruments, watch videos/shows and scroll through my Facebook newsfeed for memes. I happen to run a small Facebook page (around 1.3k likes) based on posting funny things about my favorite pet, DOGS! </li>
+<li>IT interest:  I became interested in IT because of the business and career potential it carries in the future. </li>
+<li>IT experience: I learned about IT in year 9 when I was assigned to an IT class. Beforehand, I was just using my PC to play video games and such. </li>
+</ul>
+    <h2>Katrina Dalgleish</h2>
+         <ul> 
+<li>Student Number: s3217905 </li>
+<li>Background: Nationality and Culture: I am from Scottish and Sicilian background. Born in Victoria, Australia
+Education to date: Ivanhoe Grammar School 2012 – 2017, Completing VCE Certificate. In 2018 I commenced my study at RMIT University studying a Bachelor of Information Technology. </li>
+<li>Hobbies: I play netball and tennis and have done for the past 13 years. I have a pet fish named Derek he is a beta fish. He is coloured red, purple and blue. I also have a pet dog named Daisy, she is 13 years old and is a miniature Jack Russel cross Fox Terrier.   </li>
+<li>IT interest: My interest in IT is specifically the algorithms behind social media platforms. They are self-learning algorithms that adapt to peoples needs and wants. I am interested on peoples need for technology and how it can be adapted into everyday lives. </li>
+<li>IT experience: My IT experience is minimal although there is some there. During high school I was apart of the Digital Technology Group, were we set up the Audio and Visual sides for assemblies and public school events, such as tours and presentations to parents. Also assisted with class room technology issues. In 2017 I was the first ever appointed Digital Technology Leader at Plenty Campus as well as the first ever female digital leader cross campus. 
+</li>
+</ul>
+
+    <h2>Kristian Ortigas</h2>
+         <ul> 
+<li>Student Number: s3717584</li>
+<li>Background:  I'm a 17 year old Filipino boy born and raised in Australia. Since I was born, my parents have been speaking Tagalog to me, which is one of the Philippines main Ianguage, so I've known  how to speak Tagalog fluently ever since I could talk, while English came naturally to me of course. 
+</li>
+<li>Hobbies: I'm most  passionate about are traveling, gaming, music, family and Basketball. I love to travel as I love experiencing different cultures, the photo displayed on the right was actually taken in Iceland, It's a photo of me and a Geyser. </li>
+<li>IT interest: My interest in IT has always been gaming, I've always wanted to create video games since I was a child. My interest in video games started when my auntie gifted me a PlayStation 2 for my birthday, I spent most of my time playing Need for Speed Underground 2, Jak 3 and Grand Theft Auto San Andreas.  </li>
+<li>IT experience: In year 11 and 12 I chose the computing and information technology subjects in school as all the other subjects bore me, I know that technology is the future of everything and that it would be easier to find a job in the industry as nearly every company or organisation needs some kind IT related jobs to keep their company running.</li>
+</ul>
+      <h2>Sabarish Venkatesan</h2>
+         <ul> 
+<li>Student Number:s3696187 </li>
+<li>Background: I am from India. I did my schooling in Campion A.I school and completed my year 12. Currently I am studying Bachelor of technology (Computing studies) at RMIT university. </li>
+<li>Hobbies: Tamil is my native language and I also speak Telugu and English.
+My hobbies include collecting coins, playing chess, going on long bike rides with friends and watching cricket. 
+Cricket has always been my favorite sport and I also like to play badminton. 
+ </li>
+<li>IT interest: My interest in the IT field was started when I was doing my year 10. This developed to a great high when Mr.Sundar Pichai became he CEO of Google in 2015. His story inspired me and that made me to choose IT as my carrier.
+ </li>
+<li>IT experience:As programmer being innovative and logical reasoning skills are very important. On the technical side I am proficient in C, C++ and some basic knowledge in Java.
+ </li>
+</ul>   
+
+ <h2>Kathrin Briones</h2>
+         <ul> 
+<li>Student Number: S3703175</li>
+<li>Background:I’m from the Philippines, and I used to work in the banking industry.  </li>
+<li>Hobbies:writing fiction and watching Korean dramas. Currently studying in RMIT taking up a Bachelor’s degree in Information Technology.  </li>
+<li>IT interest: Interest from I.T. came from working closely with the System Operations department in my recent stint with Citi, and I’m interested in exploring what I.T. can do in the financial reporting side of things.</li>
+<li>IT experience:  My I.T. experience includes troubleshooting, creating user guides and testing documentation for Citi’s electronic reconciliation system. 
+</li>
+</ul>   
+</div>
+
+</body>
+</html>
