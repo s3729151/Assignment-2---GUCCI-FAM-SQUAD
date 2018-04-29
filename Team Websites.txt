@@ -67,7 +67,7 @@ ul {
 <ul>
   <li><a href="Backgroundinfo.html">Katrina's Website</a></li>
   <li><a href="Intro to Information tech.html">Katrin's Website </a></li>
-  <li><a href="MyProfile.html">Darly's Website</a></li>
+  <li><a href="MyProfile.html">Daryl's Website</a></li>
   <li><a href="Website.html">Kristins's Website</a></li>
   <li><a href="index.html">Sabarish's Website</a></li>
 </ul>
